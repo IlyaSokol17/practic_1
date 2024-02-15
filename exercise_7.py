@@ -1,0 +1,6 @@
+print('Как Вас зовут?')
+name = str(input())
+print('Здравствуйте,', name)
+print('Что вам нравится?')
+like = str(input())
+print(f"Отлично! {like}-это хорошее увлечение.")
